@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "marmik_doe",
+        "password": "P@ssw0rd",
+        "database": "orm_example"
+    }
+}
